@@ -11,10 +11,13 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
+
+I have 2+ years of Job Solid experience on Laravel Framework. I have domain expertise on Supply Chain Management, Recruitment Management System, HRM, Chat Application, Real Estate Management etc.
+
 <br>
 
 - A passionate Backend Developer
-- Around 2 years of working experience
+- More than 2 years of working experience
 - My interests range from photography to technology
  
 
@@ -31,6 +34,8 @@
     
     ![PHP](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Laravel](https://img.shields.io/badge/Laravel%20-%2314354C.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=laravel&logoColor=black)
+
 
 <br>   
     
