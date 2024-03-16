@@ -2,7 +2,7 @@
 <h2 align="center"><b>Hi , This is Ferdous Ahmed Khan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Laravel+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engnieer"></a>
 </p>
 
 <br>
@@ -11,17 +11,11 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-
-I have 2+ years of Job Solid experience on Laravel Framework. I have domain expertise on Supply Chain Management, Recruitment Management System, HRM, Chat Application, Real Estate Management etc.
+A seasoned developer with over 3 years of hands-on experience in crafting robust and scalable web applications.  My expertise lies in leveraging the power of Laravel Framework, microservice architecture, Docker, and version control to ensure peak performance across diverse domains. 
+<br><br>
+In my journey as a Developer. I have successfully contributed to the analysis, design, development, and management of web-based software applications.
 
 <br>
-
-- A passionate Backend Developer
-- More than 2 years of working experience
-- My interests range from photography to technology
- 
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -30,17 +24,21 @@ I have 2+ years of Job Solid experience on Laravel Framework. I have domain expe
 
 <p align="center">
 
-- **Languages**:
+- **Languages & Architecture**:
     
     ![PHP](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Laravel](https://img.shields.io/badge/Laravel%20-%2314354C.svg?style=for-the-badge&logo=laravel&logoColor=white)
-    ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=laravel&logoColor=black)
+    ![Laravel](https://img.shields.io/badge/Laravel%20-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![Codeigniter](https://img.shields.io/badge/Codeigniter%20-%2314354C.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+    ![Terminal](https://img.shields.io/badge/Microservice-%23054020?style=for-the-badge&logo=microservice&logoColor=white)
+    
 
 
 <br>   
     
 - **Front-End Development**:
-
+  
+   ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![BLADE](https://img.shields.io/badge/BLADE%20-%231572B6.svg?style=for-the-badge&logo=blade&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +47,7 @@ I have 2+ years of Job Solid experience on Laravel Framework. I have domain expe
 
 - **Cloud Hosting**:
 
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23327FC7.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Ngnix](https://img.shields.io/badge/Ngnix-%23327FC7.svg?style=for-the-badge&logo=ngnix&logoColor=white)
     ![Cpanel](https://img.shields.io/badge/cPanel-%23327FC7.svg?style=for-the-badge&logo=cpanel&logoColor=green)
     ![IIS](https://img.shields.io/badge/WindowsIIS-%23327FC7.svg?style=for-the-badge&logo=windows&logoColor=red)
 
@@ -60,6 +58,7 @@ I have 2+ years of Job Solid experience on Laravel Framework. I have domain expe
 
 - **Softwares and Tools**:
 
+    ![docker](https://img.shields.io/badge/docker-0078d7.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
