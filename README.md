@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-A seasoned developer with over 3 years of hands-on experience in crafting robust and scalable web applications.  My expertise lies in leveraging the power of Laravel Framework, microservice architecture, Docker, and version control to ensure peak performance across diverse domains. 
+A seasoned developer with over 4 years of hands-on experience in crafting robust and scalable web applications.  My expertise lies in leveraging the power of Laravel Framework, microservice architecture, Docker, and version control to ensure peak performance across diverse domains. 
 <br><br>
 In my journey as a Developer. I have successfully contributed to the analysis, design, development, and management of web-based software applications.
 
